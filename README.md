@@ -1,4 +1,4 @@
-<h3> 👨:About Me </h3>
+<h3> 👨 About Me </h3>
 - :mortar_board: Full Stack Web Developer <br />
 - 🤔: Exploring new technologies and developing software solutions and quick hacks. <br />
 - :seedling:Currently Learning → Implementing a landing page using React <br />
