@@ -1,4 +1,4 @@
-<h3> :male-technologist::skin-tone-2: About Me </h3>
+<h3> About Me </h3>
 - :mortar_board: Full Stack Web Developer
 - :thinking_face: Exploring new technologies and developing software solutions and quick hacks.
 - :seedling:Currently Learning → Implementing a landing page.
